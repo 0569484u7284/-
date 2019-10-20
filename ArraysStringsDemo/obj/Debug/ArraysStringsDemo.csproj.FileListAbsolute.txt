@@ -1,0 +1,8 @@
+C:\Users\marym\source\repos\dotnet-arrays-demo\ArraysStringsDemo\obj\Debug\ArraysStringsDemo.csprojAssemblyReference.cache
+C:\Users\marym\source\repos\dotnet-arrays-demo\ArraysStringsDemo\bin\Debug\ArraysStringsDemo.exe.config
+C:\Users\marym\source\repos\dotnet-arrays-demo\ArraysStringsDemo\bin\Debug\ArraysStringsDemo.exe
+C:\Users\marym\source\repos\dotnet-arrays-demo\ArraysStringsDemo\bin\Debug\ArraysStringsDemo.pdb
+C:\Users\marym\source\repos\dotnet-arrays-demo\ArraysStringsDemo\bin\Debug\ArraysStringsDemo.exe.CodeAnalysisLog.xml
+C:\Users\marym\source\repos\dotnet-arrays-demo\ArraysStringsDemo\bin\Debug\ArraysStringsDemo.exe.lastcodeanalysissucceeded
+C:\Users\marym\source\repos\dotnet-arrays-demo\ArraysStringsDemo\obj\Debug\ArraysStringsDemo.exe
+C:\Users\marym\source\repos\dotnet-arrays-demo\ArraysStringsDemo\obj\Debug\ArraysStringsDemo.pdb
